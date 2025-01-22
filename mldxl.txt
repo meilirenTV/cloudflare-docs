@@ -1,0 +1,93 @@
+{ "urls": [
+
+ {
+      "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
+      "name": "魅力人影院1"
+    }, 
+  {
+      "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
+      "name": "魅力人影视2"
+    }, 
+   {
+      "url": "https://notabug.org/mlr/tv/raw/master/mc.txt",
+      "name": "魅力人影视3"
+    },  
+   
+   {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mldxl.txt",
+      "name": "魅力人影视4"
+    },  
+  {
+      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "name": "魅力人影视5"
+    }, 
+   {
+      "url":"https://d.kstore.dev/download/12020/t4.json",
+      "name": "魅力人T4影视凯速"
+    },    
+     {
+      "url":"http://yun.yunqiji.vip/yunfensi/fensi4kyun.json  ",
+      "name": "魅力人奇迹云影视"
+    },  
+
+    
+    {
+      "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
+      "name": "魅力人业余线路"
+    }, 
+       {
+      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
+      "name": "魅力人无名线路"
+    },   
+
+  {
+   "url": "http://175.178.251.183:6689/tv.txt",
+      "name": "魅力人闹闹线路"
+    },  
+    {
+      "url": "http://tv.nxog.top/m/",
+      "name": "魅力人讴歌线路"
+    },  
+    
+     
+    {
+      "url": "http://suo.im/cctv",
+      "name": "魅力人mc影视"
+    },
+    
+    
+    
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🚀摸鱼儿线🚀"
+    },
+   
+   
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "🚀巧记影视"
+    },
+  
+   
+    {
+      "url": "http://www.饭太硬.com/tv/",
+      "name": "🚀饭硬专线"
+    },
+    {
+      "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json",
+      "name": "🚀700专线"
+    },
+        {
+      "url": "http://肥猫.com/",
+      "name": "🚀肥猫线路"
+    },
+  {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🚀7小米专线"
+    },      
+    
+ 
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json","name":"10"}  
+  ]
+}
+
